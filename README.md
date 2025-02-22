@@ -2,7 +2,6 @@
 Tenho 26 anos e estou cursando ADS atualmente, sempre aprendendo mais todos os dias 
 <br>
 Aqui vai um pouco sobre oque estou fazendo:
-<hr>
 
 ### 🤖 Linguagens e Tecnologias
 
